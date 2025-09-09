@@ -1,0 +1,16 @@
+2025-09-09 15:23:03,641 - INFO - Querying DNS records for google.com
+2025-09-09 15:23:03,669 - INFO - A records: ['142.250.183.78']
+2025-09-09 15:23:03,723 - INFO - MX records: ['10 smtp.google.com.']
+2025-09-09 15:23:05,101 - INFO - CNAME lookup for google.com: The DNS response does not contain an answer to the question: google.com. IN CNAME
+2025-09-09 15:23:05,101 - INFO - Querying DNS records for iitp.ac.in
+2025-09-09 15:23:05,110 - INFO - A records: ['172.16.1.251']
+2025-09-09 15:23:05,113 - WARNING - MX lookup failed for iitp.ac.in: The DNS response does not contain an answer to the question: iitp.ac.in. IN MX
+2025-09-09 15:23:05,117 - INFO - CNAME lookup for iitp.ac.in: The DNS response does not contain an answer to the question: iitp.ac.in. IN CNAME
+2025-09-09 15:23:05,117 - INFO - Querying DNS records for mail.google.com
+2025-09-09 15:23:05,121 - INFO - A records: ['142.251.222.197']
+2025-09-09 15:23:05,277 - WARNING - MX lookup failed for mail.google.com: The DNS response does not contain an answer to the question: mail.google.com. IN MX
+2025-09-09 15:23:05,355 - INFO - CNAME lookup for mail.google.com: The DNS response does not contain an answer to the question: mail.google.com. IN CNAME
+2025-09-09 15:23:05,356 - INFO - Querying DNS records for nonexistent-example-abc-1234.com
+2025-09-09 15:23:08,907 - WARNING - A lookup failed for nonexistent-example-abc-1234.com: The DNS query name does not exist: nonexistent-example-abc-1234.com.
+2025-09-09 15:23:08,911 - WARNING - MX lookup failed for nonexistent-example-abc-1234.com: The DNS query name does not exist: nonexistent-example-abc-1234.com.
+2025-09-09 15:23:08,917 - INFO - CNAME lookup for nonexistent-example-abc-1234.com: The DNS query name does not exist: nonexistent-example-abc-1234.com.

@@ -1,0 +1,2 @@
+2025-09-09 15:39:21,236 - INFO - Connected and logged in to FTP: ftp.byethost11.com
+2025-09-09 15:39:23,049 - WARNING - Could not download file: 550 Can't open readme.txt: No such file or directory
